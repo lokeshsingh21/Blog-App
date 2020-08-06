@@ -1,0 +1,16 @@
+.code.icon{
+    font-size: 2em;
+}
+
+.container.main{
+    margin-top: 7em;
+}
+
+.ui.main{
+    width: 50%;
+    margin: 100 auto;
+}
+
+#delete{
+    display:inline;
+}
